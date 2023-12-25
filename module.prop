@@ -1,5 +1,6 @@
-id=mmt_reborn
-name=MMT Reborn
-version=v1.7.0
-author=iamlooper @ telegram
-description=MMT Reborn, a simple, customizable and easy-to-use module template.
+id=buildpropforraphaels
+name=Systemless BuildProp For raphaels
+version=1.0.0
+versionCode=100
+author=sqwei2012@gmail.com
+description=Allow you to change, Edit or Modify /system/build.prop File Systemlessly
